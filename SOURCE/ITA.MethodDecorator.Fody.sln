@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITA.MethodDecorator.Fody", "ITA.MethodDecorator.Fody\ITA.MethodDecorator.Fody.csproj", "{3B17CFD4-10E7-42DB-88D6-A10680B0BFBE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITA.MethodDecorator.Interfaces", "ITA.MethodDecorator.Interfaces\ITA.MethodDecorator.Interfaces.csproj", "{44088DF4-081E-45F6-BEDE-FE33054E8CBD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{40A4C9F0-C6C6-467D-B076-E9F0EBB4A7B4}"
+	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B17CFD4-10E7-42DB-88D6-A10680B0BFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B17CFD4-10E7-42DB-88D6-A10680B0BFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B17CFD4-10E7-42DB-88D6-A10680B0BFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B17CFD4-10E7-42DB-88D6-A10680B0BFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44088DF4-081E-45F6-BEDE-FE33054E8CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44088DF4-081E-45F6-BEDE-FE33054E8CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44088DF4-081E-45F6-BEDE-FE33054E8CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44088DF4-081E-45F6-BEDE-FE33054E8CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADE1CDAB-BEA7-4042-9F46-31F0425F954D}
+	EndGlobalSection
+EndGlobal
